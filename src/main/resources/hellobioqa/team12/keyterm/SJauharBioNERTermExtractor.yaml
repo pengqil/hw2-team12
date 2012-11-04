@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.openqa.test.team12.keyterm.SJauharBioNERKeyTermExtractor
+GeneChunkerModelFile: hellobioqa/team12/keyterm/models/ne-en-bio-genetag.HmmChunker
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider
