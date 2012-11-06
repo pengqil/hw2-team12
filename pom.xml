@@ -67,6 +67,66 @@
 			<artifactId>lingpipe</artifactId>
 			<version>4.1.0</version>
 		</dependency>
+		<dependency>
+    	<groupId>ant</groupId>
+    	<artifactId>ant</artifactId>
+    	<version>1.7.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>ant</groupId>
+    	<artifactId>ant-nodeps</artifactId>
+    	<version>1.6.5</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.ant</groupId>
+    	<artifactId>ant-nodeps</artifactId>
+    	<version>1.8.1</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.aliasi</groupId>
+    	<artifactId>lingpipe</artifactId>
+    	<version>4.1.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>edu.umass.cs</groupId>
+    	<artifactId>mallet-no_gnu</artifactId>
+    	<version>1.0.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>opennlp.tools</groupId>
+    	<artifactId>opennlp-tools</artifactId>
+    	<version>1.0.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>opennlp.maxent</groupId>
+    	<artifactId>maxent</artifactId>
+    	<version>1.0.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>mallet.deps</groupId>
+    	<artifactId>mallet-deps</artifactId>
+    	<version>1.0.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>com.apple.eawt</groupId>
+    	<artifactId>crabapple</artifactId>
+    	<version>1.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.annotation</groupId>
+    	<artifactId>wordfreak</artifactId>
+    	<version>2.2</version>
+    </dependency>
+    <dependency>
+    	<groupId>edu.upenn.cis</groupId>
+    	<artifactId>bioTagger</artifactId>
+    	<version>1.0</version>
+    </dependency>
+    <dependency>
+    	<groupId>gnu.trove</groupId>
+    	<artifactId>trove</artifactId>
+    	<version>1.0</version>
+    </dependency>
 	</dependencies>
 	<scm>
 		<connection>scm:git:git@github.com:sjauhar/hw2-team12.git</connection>
